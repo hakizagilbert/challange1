@@ -28,6 +28,7 @@ nav{
     background-color:gray;
     align-items: flex-end;
     text-align: center;
+    padding-top: 10px;
     }
     div{border-radius: 5px;
         border: 2px solid white; 
