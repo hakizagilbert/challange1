@@ -1,0 +1,95 @@
+nav{
+    height: 90px;
+    border: 1px;
+    background-color:snow;
+    border-bottom: 5px solid rgb(32, 228, 32);
+    }
+    ol 
+    {
+        padding-left:900px;
+        
+    }
+    nav ol a{
+        text-decoration: none;
+        padding-left: 30px;
+        color:grey
+    }
+    main
+    {
+    height:510px;
+    background-color:rgb(243, 237, 237);
+    text-align: center;
+    }
+    form a{
+        text-decoration:none;
+    }
+    footer{
+        height: 50px;
+    background-color:gray;
+    align-items: flex-end;
+    text-align: center;
+    }
+    div{border-radius: 5px;
+        border: 2px solid white; 
+    
+    height: 250px;
+    background-color: white;
+    width:350px ;
+    margin-left: 450px;
+    top: 60px; 
+    position: relative;
+    align-items: center;
+    padding-top: 20px;
+    }
+     .sign{
+    
+        height: 90px;
+        background-color: white;
+        width:350px ;
+        margin-left: -1px;
+        top: 60px; 
+        position: relative;
+        align-items: center;
+        border-top: 2px solid gray;
+    }
+    em{
+        color: rgb(46, 241, 46);
+       font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+       font-weight: bold;
+       padding-top: 50px;
+    }
+    main a{
+        border-radius: 5px;
+    border: 2px solid green;
+        color: white;
+        background-color: green;
+        list-style: none;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    form
+    {
+    padding-top: 20px;
+    
+    }
+    .field
+    {
+    
+    }
+    
+    .signup{
+    color:green;
+    font-weight: bold;
+    background-color: aliceblue;
+    }
+    input
+    {
+        border-radius: 5px;
+    border: 2px solid green;
+    
+    }/*
+    .fa-solid fa-user
+    {
+        color: grey;
+        font-size: 5px;
+    }*/
